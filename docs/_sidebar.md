@@ -9,7 +9,8 @@
 - 三、FlowAble工作流
   - [FlowAble初始](03.Flowable工作流/1.FlowAble初始.md)
 - 四、Activiti工作流
-  - [SpringBoot整合Activiti](04.Activiti工作流/1.SpringBoot整合Activiti.md)   
+  - [SpringBoot整合Activiti在线设计器](04.Activiti工作流/1.SpringBoot整合Activiti在线设计器.md)   
+  - [SpringBoot整合Activiti](04.Activiti工作流/2.SpringBoot整合Activiti项目实战.md)
 
 
 
