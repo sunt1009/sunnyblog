@@ -15,7 +15,8 @@
   - [Activiti项目安装与配置](04.Activiti工作流/4.SunnyActiviti项目安装与配置.md)
 - 五、软件安装
   - [Linux下Redis的安装](05.软件安装/1.Linux下Redis的安装与配置.md)   
-  - [Linux下MySQL的安装](05.软件安装/2.Linux下MySQL5.7的安装与配置.md)  
+  - [Linux下MySQL的安装](05.软件安装/2.Linux下MySQL5.7的安装与配置.md)
+  - [Centos7以yum方式安装MySQL](05.软件安装/3.Centos7以yum方式安装MySQL.md)
 
 
 
